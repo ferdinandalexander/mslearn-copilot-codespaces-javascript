@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "[Article] Enabling High Availability and Secure Access for a Social Research Organization on AWS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The architecture was designed to meet the outlined solution requirements, focusing on security, high availability, scalability, and access control. Below is a breakdown of the design decisions made to fulfill these needs:",
+    url: "https://www.linkedin.com/pulse/report-alx-capstone-project-example-social-research-alexander-syw7f/?trackingId=sGmin1yfT1%2BzEW2HgdbnCA%3D%3D",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Non-Profit Organization Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A user-friendly, impactful website designed for The Restored Heart Foundation, highlighting its mission, programs, and stories while encouraging donations and community engagement.",
+    url: "https://therhfoundation.org/",
   },
   {
-    title: "My Resume Site",
+    title: "A Real Estate Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A modern, responsive WordPress website built for Gerry Ikputu & Partners, showcasing real estate listings with seamless navigation and an elegant property search experience.",
+    url: "https://gerryikputu.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "UI/UX For A Project Management Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A clean, intuitive UI/UX design that simplifies project tracking, enhances team collaboration, and streamlines task management.",
+    url: "https://www.figma.com/design/tUmN34h1bsMGoK3Its97tm/Zuri-Mini-Project---Styles-Guide?node-id=0-1&p=f",
   },
 ];
 
